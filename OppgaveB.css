@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+}
+
+p {
+    font-family: Sans-Serif;
+    font-size:24px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+
+
+
+
+li {
+    list-style-type: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 100px;
+}
+
+nav {
+    border-bottom: 3px solid black;
+background-color: white;
+}
+
+footer {
+    padding: 10px;
+    border-radius: 45px;
+    width: 100%;
+    border: 2px solid grey;
+    opacity: 80%;
+    background-color: whitesmoke;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+
+
+#walter {
+    height: 100px;
+}
+
+.ww {
+    background-image: url(Bilder/BobLogo\(200x200\)png.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 205vh;
+}
+
+
+
+
+
+.prgm {
+    background-image: url(Bilder/KodeBilde.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    
+}
+
+.prgm p {
+    padding: 20px;
+    border-radius: 40px;
+    background-color: whitesmoke;
+    opacity: 80%;
+    text-align: center;
+    margin-top: 30vh;
+}
+
+
+
+
+
+.gmail {
+    background-image: url(Bilder/GmailBilde.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 95vh;
+    height: 83vh;
+}
+
+.gmail p {
+    padding: 20px;
+    border-radius: 40px;
+    width: 50vh;
+    background-color: whitesmoke;
+    opacity: 80%;
+    text-align: center;
+    margin: auto;
+    position: relative; top: 185px;
+}
+
+
+
+
+
+.mb {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.mb img {
+    width: 1200px;
+    border-radius: 10px;
+}
+
+.mb p {
+    font-size: 36px;
+    padding: 20px;
+}
